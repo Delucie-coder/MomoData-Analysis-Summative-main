@@ -55,7 +55,7 @@ This project is an end-to-end fullstack application designed to analyze and visu
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Gaddy01/MomoData-Analysis-Summative.git
+   git clone https://github.com/Delucie-coder/MomoData-Analysis-Summative-main/tree/main/MomoData-Analysis-Summative-main
    cd MomoData-Analysis-Summative
    ```
 2. **Install dependencies**
