@@ -77,7 +77,7 @@ This project is an end-to-end fullstack application designed to analyze and visu
    python app.py
    ```
 7. **Access the dashboard**
-   Visit http://localhost:5000 in your browser.
+   Visit http://127.0.0.1:5000 in your browser.
 
 ⚠️ **NB. Run the 'db_setup.py' & 'load_data.py' scripts only once. if you want to rerun the web app, just run 'app.py' script only!**
 
@@ -94,4 +94,6 @@ This project is an end-to-end fullstack application designed to analyze and visu
 
 ## 📝 Authors
 
-   
+   Noella Ntare
+   Delucie Rurangwa
+   Davinci Gisanura
