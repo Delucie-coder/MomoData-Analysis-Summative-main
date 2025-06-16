@@ -84,13 +84,11 @@ This project is an end-to-end fullstack application designed to analyze and visu
 ## 📌 Additional links:
 
 1. **Demonstration video link**
-   ```bash
  https://drive.google.com/file/d/1VvzBd41p6WEH6rZ3VZ7CYLLg8DP9INDx/view?usp=sharing
-   ```
+   
 2. **Project report link**
-   ```bash
   https://docs.google.com/document/d/1N4l3vaPaU-y7ri3yM1KPKII16IrLqY1Q8Ivzf_hSgCY/edit?tab=t.0
-   ```
+   
 
 ## 📝 Authors
 
